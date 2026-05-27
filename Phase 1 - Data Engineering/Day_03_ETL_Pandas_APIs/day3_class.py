@@ -243,7 +243,7 @@ df.to_csv(output_filename, index=False)
 print(f"Cleaned data saved to: {output_filename}")
 print(f"Final dataset: {df.shape[0]} rows X {df.shape[1]} columns")
 
-SERP_API_KEY='fea6ced7b2086c4e70e031cb66b4bb6861883645d1b8e1531dde1ecc6a14ca32'
+SERP_API_KEY='YOUR_SERPAPI_KEY_HERE'
 SERP_URL='https://serpapi.com/search.json'
 SEARCH_QUERY='Data Engineer India'
 
