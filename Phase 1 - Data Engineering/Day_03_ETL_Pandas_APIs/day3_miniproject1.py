@@ -13,7 +13,7 @@ Original file is located at
 import requests
 import pandas as pd
 
-API_KEY = 'b9f86cf402127d5bc2813ba8cbf0e040'
+API_KEY = 'YOUR_API_KEY'
 
 base_url = "https://api.openweathermap.org/data/2.5/weather"
 
